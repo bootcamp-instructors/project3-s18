@@ -17,16 +17,18 @@ To turn in your project for grading, publish it to Heroku and post links to your
 
 ## If you complete the minimum requirements, consider one or more of the following enhancements...
 
-* Allowing users to view the deck in alphabetical order by term or with a random shuffle.
-* Allowing users to review their deck by terms only, by definitions only, or by a random combination of both. Provide a control in the interface that reveals the missing information. (This simulates turning a card over in a physical flash card deck.)
-* Adding controls so that users can mark whether they got the answer right or wrong. Continue presenting cards that were marked wrong until the user gets them right.
-* Allowing users to move forward and backward through the deck.
-* Animating the card flip.
-* Allowing users to create more than one deck. Allowing cards to belong to more than one deck.
-* Allowing users to mark decks as public or private. Public decks should be viewable by guest users. Logged-in users should be given the option to view their own decks, public decks, or both.
-* Allowing decks to contain images for definitions instead of text.
-* Allowing decks to contain images in definitions in addition to text.
-* Supporting mathematical notation in definitions.
+* Allow users to view the deck in alphabetical order by term or with a random shuffle.
+* Allow users to review their deck by terms only, by definitions only, or by a random combination of both. Provide a control in the interface that reveals the missing information. (This simulates turning a card over in a physical flash card deck.)
+* Add controls so that users can mark whether they got the answer right or wrong. Continue presenting cards that were marked wrong until the user gets them right.
+* Allow users to move forward and backward through the deck.
+* Animate the card flip.
+* Allow users to create more than one deck. Allowing cards to belong to more than one deck.
+* Allow users to mark decks as public or private. Public decks should be viewable by guest users. Logged-in users should be given the option to view their own decks, public decks, or both.
+* Allow decks to contain images for definitions instead of text.
+* Allow decks to contain images in definitions in addition to text.
+* Support mathematical notation in definitions.
+* Keep track of the number of times a card is marked as "I got it right" and "I got it wrong."
+* Create reports showing user progress - you'll need to decide what data to save and how to summarize it.
 
 Or, think up your own additional features.
 
